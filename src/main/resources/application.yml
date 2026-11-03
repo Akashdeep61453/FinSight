@@ -1,0 +1,47 @@
+spring:
+  application:
+    name: bank-statement-analyzer
+  datasource:
+    url: ${DATABASE_URL:jdbc:postgresql://localhost:5432/finance_insight}
+    username: ${DATABASE_USERNAME:finance_insight}
+    password: ${DATABASE_PASSWORD:finance_insight}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+  flyway:
+    enabled: true
+  mvc:
+    problemdetails:
+      enabled: true
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+server:
+  port: ${SERVER_PORT:8080}
+  forward-headers-strategy: framework
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+  endpoint:
+    health:
+      probes:
+        enabled: true
+      show-details: never
+
+app:
+  upload:
+    max-bytes: 10485760
+  storage:
+    local-directory: ${STATEMENT_STORAGE_DIRECTORY:./uploads}
+  retention:
+    enabled: ${PDF_RETENTION_ENABLED:true}
+    days: ${PDF_RETENTION_DAYS:365}
+    cleanup-cron: ${PDF_RETENTION_CRON:0 30 2 * * *}
+
+

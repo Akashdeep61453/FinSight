@@ -1,0 +1,14 @@
+# Synthetic statement fixture for parser development only.
+# This is not an actual bank statement and does not represent a supported bank format.
+BANK STATEMENT SAMPLE
+Account: DEMO-0001
+Currency: INR
+Period: 2026-01-01 to 2026-01-31
+
+Date        Description                 Debit       Credit      Balance
+2026-01-02  SALARY SAMPLE EMPLOYER       -           75000.00    75000.00
+2026-01-03  SAMPLE GROCERY STORE         2450.50     -           72549.50
+2026-01-05  SAMPLE ELECTRIC BILL         1800.00     -           70749.50
+2026-01-10  SAMPLE RENT PAYMENT          22000.00    -           48749.50
+2026-01-12  SAMPLE PHARMACY               620.00     -           48129.50
+2026-01-20  SAMPLE TRANSFER REFUND        -           500.00      48629.50

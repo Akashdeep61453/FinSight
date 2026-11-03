@@ -1,0 +1,127 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/Author (FinanceInsight Demo) /CreationDate (D:20261103171919+05'00') /Creator (anonymous) /Keywords () /ModDate (D:20261103171919+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Fictional transactions for testing the Bank Statement Analyzer) /Title (Synthetic Bank Statement Sample) /Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/Count 1 /Kids [ 6 0 R ] /Type /Pages
+>>
+endobj
+10 0 obj
+<<
+/Length 2606
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.09 .2 .16 rg
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 42 740 Tm (BANK STATEMENT SAMPLE) Tj T* ET
+.3 .38 .34 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 722 Tm (Synthetic demo statement - no real bank or personal data) Tj T* ET
+.12 .15 .13 rg
+BT /F3 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 688 Tm (Account: DEMO-0001) Tj T* ET
+BT 1 0 0 1 42 672 Tm (Currency: INR) Tj T* ET
+BT 1 0 0 1 42 656 Tm (Period: 2026-01-01 to 2026-01-31) Tj T* ET
+.09 .2 .16 rg
+BT /F4 8 Tf 9.6 TL ET
+BT 1 0 0 1 42 621 Tm (Date        Description                     Debit         Credit        Balance) Tj T* ET
+.78 .83 .79 RG
+n 42 614 m 570 614 l S
+.12 .15 .13 rg
+BT /F3 8 Tf 9.6 TL ET
+BT 1 0 0 1 42 595 Tm (2026-01-02  SALARY ACME COMPANY                      -     75000.00     75000.00) Tj T* ET
+BT 1 0 0 1 42 575 Tm (2026-01-03  SAMPLE GROCERY STORE               2450.50            -     72549.50) Tj T* ET
+BT 1 0 0 1 42 555 Tm (2026-01-05  SAMPLE RENT PAYMENT               22000.00            -     50549.50) Tj T* ET
+BT 1 0 0 1 42 535 Tm (2026-01-06  SAMPLE ELECTRIC BILL               1800.00            -     48749.50) Tj T* ET
+BT 1 0 0 1 42 515 Tm (2026-01-08  SAMPLE PHARMACY                     620.00            -     48129.50) Tj T* ET
+BT 1 0 0 1 42 495 Tm (2026-01-10  TRANSFER TO SAVINGS                5000.00            -     43129.50) Tj T* ET
+BT 1 0 0 1 42 475 Tm (2026-01-12  GROCERY REFUND                           -       500.00     43629.50) Tj T* ET
+BT 1 0 0 1 42 455 Tm (2026-01-14  SAMPLE CAFE                         800.00            -     42829.50) Tj T* ET
+BT 1 0 0 1 42 435 Tm (2026-01-16  FUEL STATION                       1500.00            -     41329.50) Tj T* ET
+BT 1 0 0 1 42 415 Tm (2026-01-18  MOBILE PHONE BILL                   499.00            -     40830.50) Tj T* ET
+BT 1 0 0 1 42 395 Tm (2026-01-20  SAMPLE ONLINE SHOP                 3200.00            -     37630.50) Tj T* ET
+BT 1 0 0 1 42 375 Tm (2026-01-22  ATM CASH WITHDRAWAL                2000.00            -     35630.50) Tj T* ET
+BT 1 0 0 1 42 355 Tm (2026-01-25  SAVINGS INTEREST                         -       125.00     35755.50) Tj T* ET
+BT 1 0 0 1 42 335 Tm (2026-01-28  LOCAL TRANSPORT                     250.00            -     35505.50) Tj T* ET
+BT 1 0 0 1 42 315 Tm (2026-01-30  SAMPLE INSURANCE                    950.00            -     34555.50) Tj T* ET
+.86 .89 .87 RG
+n 42 72 m 570 72 l S
+.38 .44 .4 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 42 56 Tm (All names, account details, and transactions on this statement are fictional.) Tj T* ET
+BT 1 0 0 1 529.08 56 Tm (Page 1 of 1) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000061 00000 n 
+0000000122 00000 n 
+0000000229 00000 n 
+0000000341 00000 n 
+0000000446 00000 n 
+0000000556 00000 n 
+0000000750 00000 n 
+0000000818 00000 n 
+0000001163 00000 n 
+0000001222 00000 n 
+trailer
+<<
+/ID 
+[<616aea1efed887d0d4af311314a50fff><616aea1efed887d0d4af311314a50fff>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 11
+>>
+startxref
+3880
+%%EOF

@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+target/
+node_modules/
+.env
+*.log
+uploads/
+
+frontend/dist/
+frontend/node_modules/
+
